@@ -6,7 +6,7 @@ description.
 2. List tasks: Users can view their existing tasks with details like title, description, and a
    unique task ID.
    
-3. Mark tasks as complete: Users can mark tasks as complete or uncompleted.
+3. Mark tasks as complete: Users can mark tasks as complete.
 
 4. Delete tasks: Users can remove tasks from their to-do list.
    

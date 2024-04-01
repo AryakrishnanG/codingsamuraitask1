@@ -1,3 +1,7 @@
+Project Title: To-Do List Application
+
+Language used: Python
+
 Key Features:
 
 1. Add tasks: Users should be able to add tasks to their to-do list with a title and a
